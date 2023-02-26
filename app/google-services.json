@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "150582918867",
+    "project_id": "archex-52fdd",
+    "storage_bucket": "archex-52fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150582918867:android:d5e61f8de1d890879dde26",
+        "android_client_info": {
+          "package_name": "ru.braveowlet.archex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150582918867-4r4n32bjtk5c8ssfnohbin4mt3t93t66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.braveowlet.archex",
+            "certificate_hash": "6044ea6ca75bea4694fd740032452ef73f35c4f2"
+          }
+        },
+        {
+          "client_id": "150582918867-m6lpk16lkla10t2v88hbhhg3davisce7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.braveowlet.archex",
+            "certificate_hash": "0426658a98302bf66d9a0874ca14d2c230985ad3"
+          }
+        },
+        {
+          "client_id": "150582918867-3u2arjjof8k272eiim90e5p8igujfge3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCynVhtA2X-SM2WA2CtP3RmlzsLCHo8UOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150582918867-3u2arjjof8k272eiim90e5p8igujfge3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
